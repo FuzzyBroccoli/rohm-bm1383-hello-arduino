@@ -1,0 +1,18 @@
+{
+  "name": "rohm-sensor-hal",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Rohm HAL for sensor driver development",
+  "keywords": [
+    "rohm",
+    "hal"
+  ],
+  "author": "Mikko Koivunen",
+  "repository": {
+    "url": "https://github.com/MikkoZ-Rohm/rohm-sensor-hal1.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "mbed-drivers": "1.2.0"
+  }
+}
